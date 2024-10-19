@@ -182,6 +182,7 @@ section#img02 {
 }
 .conteudo div >p{
     margin-left: 10px;
+    font-weight: bold;
 }
 .conteudo img {
     width: 40px;
