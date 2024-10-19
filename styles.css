@@ -183,6 +183,7 @@ section#img02 {
 .conteudo div >p{
     margin-left: 10px;
     font-weight: bold;
+    font-size: 1em;
 }
 .conteudo img {
     width: 40px;
