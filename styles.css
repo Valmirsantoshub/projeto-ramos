@@ -165,6 +165,7 @@ section.imagem > p {
 section#img01 {
     background-image: url('imagens/projeto-ramos.jpg');
     background-position: right center;
+    background-size: cover;
     
 }
 
